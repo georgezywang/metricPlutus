@@ -6,11 +6,11 @@ We present a methodology for studying the economic impact of COVID-19 on cities 
 
 ## Some Schematics
 <div>
-<p align="left">
+<p align="left", class = "column", width = 50%>
   <img src="resources/Chicago_lowinc_emp.png" alt="Chicago Low Income Employment"/>
   <h4 align = "center">Chicago Low Income Employment</h4>
 </p>
-<p align="right">
+<p align="right", class = "column", width = 50%>
   <img src="resources/Charlotte_highinc_emp.png" alt="Charlotte High Income Employment"/>
   <h4 align = "center">Charlotte High Income Employment</h4>
 </p>
