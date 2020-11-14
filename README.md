@@ -6,9 +6,12 @@ We present a methodology for studying the economic impact of COVID-19 on cities 
 
 ## Some Schematics
 ![Alt text](resources/Chicago_lowinc_emp.png "Chicago Low Income Employment")
+
 *Charlotte High Income Employment*
 ![Alt text](resources/Charlotte_highinc_emp.png "Charlotte High Income Employment")
+
 *Charlotte High Income Employment*
 
 *This is an award winning submission of the Duke 2020 Datathon*
+
 https://dukeml.org/datathon/index.html
